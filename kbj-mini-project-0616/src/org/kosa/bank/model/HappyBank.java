@@ -4,4 +4,5 @@ public class HappyBank {
 	public void withdraw() {}
 	public void find() {}
 	public void deposit(){}
+	public void delete() {}
 }
